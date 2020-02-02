@@ -1,0 +1,9 @@
+<addresses>
+  <address url="http://feeds.bbci.co.uk/news/uk/rss.xml">UK vesti</address>
+  <address url="http://feeds.bbci.co.uk/news/education/rss.xml">Obrazovanje</address>
+  <address url="http://feeds.bbci.co.uk/news/health/rss.xml">Zdravlje</address>
+  <address url="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml">Nauka i okolina</address>
+  <address url="http://www.b92.net/info/rss/automobili.xml">Automobili</address>
+  <address url="http://www.b92.net/info/rss/putovanja.xml">Putovanja</address>
+  <address url="https://news.yahoo.com/rss/entertainment">Zabava</address>
+</addresses>
